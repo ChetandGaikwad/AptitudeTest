@@ -26,9 +26,9 @@ If a candidate's browser can't reach GitHub when they submit (offline, or you ha
 Open `index.html` in any text editor (Notepad, VS Code, etc.) and find these lines near the top of the `<script>` section:
 
 ```javascript
-const GITHUB_OWNER = 'YOUR_GITHUB_USERNAME';   // <-- EDIT ME
-const GITHUB_REPO  = 'YOUR_REPO_NAME';          // <-- EDIT ME
-const GITHUB_TOKEN = 'YOUR_FINE_GRAINED_TOKEN'; // <-- EDIT ME
+const GITHUB_OWNER = 'ChetandGaikwad';   // <-- EDIT ME
+const GITHUB_REPO  = 'AptitudeTest';          // <-- EDIT ME
+const GITHUB_TOKEN = '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'; // <-- EDIT ME
 ```
 
 Replace each placeholder:
